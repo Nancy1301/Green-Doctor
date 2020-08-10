@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ग्रीन डॉक्टर</string>
+    <string name="buttonSelectPhoto">फोटो निवडा</string>
+    <string name="buttonTakePhoto">कॅमेरा प्रारंभ करा</string>
+    <string name="buttonDiagnose">शोधा</string>
+    <string name="defaultImage">
+        डीफॉल्ट प्रतिमा आता सेट केली ...</string>
+    <string name="descriptionImage">
+        प्रतिमा प्रदर्शित करण्यासाठी पहा</string>
+    <string name="plant_care">वनस्पती काळजी</string>
+    <string name="diseases">
+        रोग</string>
+    <string name="phone_number">
+        फोन नंबर:</string>
+    <string name="button">बटण</string>
+</resources>

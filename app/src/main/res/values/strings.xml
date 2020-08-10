@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Green Doctor</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="plant_care">Plant Care</string>
+    <string name="diseases">Diseases</string>
+    <string name="phone_number">Phone number :</string>
+    <string name="button">Button</string>
+</resources>

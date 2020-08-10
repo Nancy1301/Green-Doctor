@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Docteur vert</string>
+    <string name="buttonSelectPhoto">Sélectionnez une photo</string>
+    <string name="buttonTakePhoto">Démarrer la caméra</string>
+    <string name="buttonDiagnose">Détecter</string>
+    <string name="defaultImage">Image par défaut définie maintenant ...</string>
+    <string name="descriptionImage">Vue pour afficher image</string>
+    <string name="plant_care">Entretien des plantes</string>
+    <string name="diseases">Maladies</string>
+    <string name="phone_number">Numéro de téléphone :</string>
+    <string name="button">Bouton</string>
+</resources>

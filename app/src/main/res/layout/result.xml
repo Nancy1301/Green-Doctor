@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent"
+                                             android:id="@+id/back_result"
+                                             android:background="@drawable/bg">
+
+    <TextView
+            android:text="TextView"
+            android:layout_width="277dp"
+            android:layout_height="89dp"
+            android:id="@+id/Head"
+            android:textSize="25dp"
+            app:layout_constraintTop_toTopOf="parent" android:gravity="center"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.223"/>
+    <EditText
+            android:layout_marginVertical="80dp"
+            android:layout_width="345dp"
+            android:layout_height="582dp"
+            android:inputType="textMultiLine"
+            android:gravity="center|start|top"
+            android:ems="10"
+            android:id="@+id/desc"
+            android:textColor="@android:color/white"
+            android:background="@android:color/white"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="10dp"
+
+            android:focusable="false" android:editable="false"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginEnd="10dp" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Head"/>
+    <ImageButton
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@android:drawable/ic_dialog_email"
+            android:id="@+id/mess_but" android:layout_marginEnd="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="16dp" app:layout_constraintTop_toTopOf="parent"/>
+</android.support.constraint.ConstraintLayout>
